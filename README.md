@@ -25,8 +25,9 @@ Here are some ideas to get you started:
 ## Sobre mí
 Hola, soy Germán. Actualmente estudiante de Desarrollo de Aplicaciones Web.
 
-| Rank | Lenguajes     |
+|      | Lenguajes     |
 |-----:|---------------|
 |     1| Java          |
 |     2| HTML          |
 |     3| CSS           |
+|     4| SQL           |
