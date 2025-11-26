@@ -21,13 +21,17 @@ Here are some ideas to get you started:
  <img alt="YOUR-ALT-TEXT" src="https://static.wikia.nocookie.net/brandon-sanderson/images/c/c0/Kaladin_Stormblessed.jpg/revision/latest?cb=20211115154739">
 </picture>
 
-
 ## Sobre mí
 Hola, soy Germán. Actualmente estudiante de Desarrollo de Aplicaciones Web.
-
+<details>
+ <summary>Mis lenguajes de programación</summary>
 |      | Lenguajes     |
 |-----:|---------------|
 |     1| Java          |
 |     2| HTML          |
 |     3| CSS           |
 |     4| SQL           |
+</details>
+
+
+
