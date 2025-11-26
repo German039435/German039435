@@ -1,4 +1,4 @@
-## Hola mundo!
+# German039435
 
 <!--
 **German039435/German039435** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,3 +20,13 @@ Here are some ideas to get you started:
  <source media="(prefers-color-scheme: light)" srcset="https://uploads.coppermind.net/thumb/Syl_Full_size.jpg/300px-Syl_Full_size.jpg">
  <img alt="YOUR-ALT-TEXT" src="https://static.wikia.nocookie.net/brandon-sanderson/images/c/c0/Kaladin_Stormblessed.jpg/revision/latest?cb=20211115154739">
 </picture>
+
+
+## Sobre mí
+Hola, soy Germán. Actualmente estudiante de Desarrollo de Aplicaciones Web.
+
+| Rank | Lenguajes     |
+|-----:|---------------|
+|     1| Java          |
+|     2| HTML          |
+|     3| CSS           |
