@@ -23,8 +23,15 @@ Here are some ideas to get you started:
 
 ## Sobre mí
 Hola, soy Germán. Actualmente estudiante de Desarrollo de Aplicaciones Web.
-<details>
+
+<!-- TO DO:
+- [ ] Añadir más información sobre mí.
+-->
+
+
+<details open>
  <summary>Mis lenguajes de programación</summary>
+ 
 |      | Lenguajes     |
 |-----:|---------------|
 |     1| Java          |
@@ -33,5 +40,8 @@ Hola, soy Germán. Actualmente estudiante de Desarrollo de Aplicaciones Web.
 |     4| SQL           |
 </details>
 
+---
+> Vida antes que muerte, fuerza antes que debilidad, viaje antes que destino.
 
+— El archivo de las tormentas
 
